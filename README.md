@@ -1,7 +1,5 @@
 <html>
-<head>
-<title>Curriculum Vitae</title>
-</head>
+
 <body>
 <table border="1" align="center" bgcolor="pink">
 <tr>
